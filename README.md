@@ -1,5 +1,9 @@
 # BT Scan Lab (BluetoothAndroid17)
 
+<p>
+<img src="docs/screenshot.png" width="220" alt="Bluetooth scanner" />
+</p>
+
 A small Android learning app for **Bluetooth Classic** and **Bluetooth Low Energy (BLE)** scanning.
 
 The GitHub repo is `BluetoothAndroid17`. The application package is still `com.rick.blueoothandroid17`.
